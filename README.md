@@ -12,5 +12,5 @@ It consists a total of 8 files
    |-- map_view.py
    |-- saved_routes.py
  |-- Main "app.py" file
- |-- Database file "traffic_routes.db"
+ |-- Database file "traffic_routes.db" 
 
